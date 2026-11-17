@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 20_VariadicArgumentsLambdaAndHigherOrderFunctions_PartsSorting
 
 **Difficulty:** Medium  

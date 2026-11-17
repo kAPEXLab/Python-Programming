@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 24_RegularExpressionsAndStructuredTextParsing_ManufacturingLabel
 
 **Difficulty:** Difficult

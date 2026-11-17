@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 24_RegularExpressionsAndStructuredTextParsing_DiagnosticLog
 
 **Difficulty:** Easy

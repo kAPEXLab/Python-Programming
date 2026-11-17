@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 21_Recursion_ChargingPlan
 
 **Difficulty:** Difficult  

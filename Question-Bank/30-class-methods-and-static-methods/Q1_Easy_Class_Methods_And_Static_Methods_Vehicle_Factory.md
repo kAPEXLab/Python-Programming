@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 30_ClassMethodsAndStaticMethods_VehicleFactory
 
 **Difficulty:** Easy

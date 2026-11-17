@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 28_ClassesAndObjects_ServiceOrder
 
 **Difficulty:** Difficult

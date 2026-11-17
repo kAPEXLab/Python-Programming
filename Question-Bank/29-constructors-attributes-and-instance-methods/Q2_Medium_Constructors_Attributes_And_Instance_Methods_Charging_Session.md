@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 29_ConstructorsAttributesAndInstanceMethods_ChargingSession
 
 **Difficulty:** Medium

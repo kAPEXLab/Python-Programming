@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 10_LoopControl_InvalidPackets
 
 **Difficulty:** Medium  

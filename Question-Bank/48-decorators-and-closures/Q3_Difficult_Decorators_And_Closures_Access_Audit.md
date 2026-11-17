@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 48_DecoratorsAndClosures_AccessAudit
 
 **Difficulty:** Difficult  

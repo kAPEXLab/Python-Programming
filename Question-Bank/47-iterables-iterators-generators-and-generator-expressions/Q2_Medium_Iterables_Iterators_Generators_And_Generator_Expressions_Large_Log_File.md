@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 47_IterablesIteratorsGeneratorsAndGeneratorExpressions_LargeLogFile
 
 **Difficulty:** Medium  

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 23_StringMethodsAndFormatting_ServiceInvoice
 
 **Difficulty:** Medium

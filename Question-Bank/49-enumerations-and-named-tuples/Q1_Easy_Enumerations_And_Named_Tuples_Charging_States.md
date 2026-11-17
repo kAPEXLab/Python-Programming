@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 49_EnumerationsAndNamedTuples_ChargingStates
 
 **Difficulty:** Easy  

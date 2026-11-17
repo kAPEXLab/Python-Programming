@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 46_CommandLineArgumentsAndEnvironmentVariables_DiagnosticReport
 
 **Difficulty:** Easy  

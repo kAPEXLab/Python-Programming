@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 06_Conditionals_TemperatureWarning
 
 **Difficulty:** Easy  

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 16_Comprehensions_ChargingLocations
 
 **Difficulty:** Difficult  

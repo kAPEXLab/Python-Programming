@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 01_PythonSyntax_TelemetryReport
 
 **Difficulty:** Medium  

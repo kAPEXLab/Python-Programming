@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 26_DateAndTimeHandling_ServiceIntervals
 
 **Difficulty:** Easy

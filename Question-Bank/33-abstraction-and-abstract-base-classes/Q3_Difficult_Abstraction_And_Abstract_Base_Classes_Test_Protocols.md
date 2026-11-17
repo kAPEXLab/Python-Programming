@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 33_AbstractionAndAbstractBaseClasses_TestProtocols
 
 **Difficulty:** Difficult

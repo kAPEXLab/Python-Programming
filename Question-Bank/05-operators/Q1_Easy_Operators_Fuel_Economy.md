@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 05_Operators_FuelEconomy
 
 **Difficulty:** Easy  

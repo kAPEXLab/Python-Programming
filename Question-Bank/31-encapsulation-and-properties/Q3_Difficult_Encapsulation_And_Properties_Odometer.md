@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 31_EncapsulationAndProperties_Odometer
 
 **Difficulty:** Difficult

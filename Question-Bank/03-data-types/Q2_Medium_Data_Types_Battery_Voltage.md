@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 
 # 03_DataTypes_BatteryVoltage
 

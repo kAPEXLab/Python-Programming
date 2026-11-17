@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 40_JSONBinaryFilesSerializationAndDeserialization_TelemetryArchive
 
 **Difficulty:** Difficult

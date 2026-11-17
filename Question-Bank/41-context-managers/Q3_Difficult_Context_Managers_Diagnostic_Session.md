@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 41_ContextManagers_DiagnosticSession
 
 **Difficulty:** Difficult

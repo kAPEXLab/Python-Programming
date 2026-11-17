@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 14_Sets_CommonVehicleFeatures
 
 **Difficulty:** Difficult  

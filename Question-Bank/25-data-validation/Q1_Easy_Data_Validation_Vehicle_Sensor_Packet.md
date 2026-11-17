@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 25_DataValidation_VehicleSensorPacket
 
 **Difficulty:** Easy

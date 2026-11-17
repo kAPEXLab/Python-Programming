@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 09_WhileLoops_FactoryQueue
 
 **Difficulty:** Difficult  

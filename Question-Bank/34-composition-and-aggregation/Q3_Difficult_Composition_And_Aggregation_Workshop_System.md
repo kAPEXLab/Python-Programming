@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 34_CompositionAndAggregation_WorkshopSystem
 
 **Difficulty:** Difficult

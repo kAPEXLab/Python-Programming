@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 37_BuiltInExceptionsAndTryExcept_BadMeasurement
 
 **Difficulty:** Difficult

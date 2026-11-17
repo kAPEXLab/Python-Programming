@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 15_Dictionaries_VehicleConfiguration
 
 **Difficulty:** Medium  

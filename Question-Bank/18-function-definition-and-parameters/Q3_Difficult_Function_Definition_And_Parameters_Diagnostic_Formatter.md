@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 18_FunctionDefinitionAndParameters_DiagnosticFormatter
 
 **Difficulty:** Difficult  

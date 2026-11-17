@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 35_DataclassesAndSpecialMethods_VehicleEvent
 
 **Difficulty:** Difficult

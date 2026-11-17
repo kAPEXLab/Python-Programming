@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 43_ModulesAndPackages_TelemetryReaders
 
 **Difficulty:** Difficult  

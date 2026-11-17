@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 03_DataTypes_TirePressure
 
 **Difficulty:** Easy  

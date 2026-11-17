@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 12_ListsAndSlicing_ProductionSequence
 
 **Difficulty:** Difficult  

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 51_AdvancedPatternMatching_UpdateManifest
 
 **Difficulty:** Difficult  

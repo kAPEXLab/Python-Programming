@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 39_TextCSVFilesAndFilePaths_FleetTrips
 
 **Difficulty:** Easy

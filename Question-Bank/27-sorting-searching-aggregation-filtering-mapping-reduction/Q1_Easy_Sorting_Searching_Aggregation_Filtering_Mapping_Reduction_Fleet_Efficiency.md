@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 27_SortingSearchingAggregationFilteringMappingReduction_FleetEfficiency
 
 **Difficulty:** Easy

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 18_FunctionDefinitionAndParameters_SpeedConverter
 
 **Difficulty:** Easy  

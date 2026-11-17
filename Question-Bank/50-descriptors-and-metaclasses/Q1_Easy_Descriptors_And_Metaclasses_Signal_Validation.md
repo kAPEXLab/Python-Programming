@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 50_DescriptorsAndMetaclasses_SignalValidation
 
 **Difficulty:** Easy  

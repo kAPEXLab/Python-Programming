@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 13_TuplesPackingAndUnpacking_GPSCoordinate
 
 **Difficulty:** Medium  

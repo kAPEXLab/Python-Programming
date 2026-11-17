@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 08_ForLoops_ComponentChecklist
 
 **Difficulty:** Medium  

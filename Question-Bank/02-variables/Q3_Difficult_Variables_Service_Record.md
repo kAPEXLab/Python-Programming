@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 02-Variables: Service Record
 
 **Difficulty:** Difficult  

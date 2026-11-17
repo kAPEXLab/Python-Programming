@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 19_ArgumentsReturnsAndScope_BatterySummary
 
 **Difficulty:** Difficult  

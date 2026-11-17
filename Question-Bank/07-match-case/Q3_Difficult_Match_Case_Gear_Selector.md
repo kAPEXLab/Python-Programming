@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 07_MatchCase_GearSelector
 
 **Difficulty:** Difficult  

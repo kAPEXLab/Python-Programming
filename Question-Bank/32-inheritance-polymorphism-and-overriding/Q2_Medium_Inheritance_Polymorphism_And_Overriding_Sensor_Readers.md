@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 32_InheritancePolymorphismAndOverriding_SensorReaders
 
 **Difficulty:** Medium
