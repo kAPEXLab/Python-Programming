@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 15_Dictionaries_CANSignals
 
 **Difficulty:** Easy  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 17_NestedCollections_QualityBatches
 
 **Difficulty:** Difficult  

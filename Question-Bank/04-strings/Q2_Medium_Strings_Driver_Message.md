@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 04_Strings_DriverMessage
 
 **Difficulty:** Medium  

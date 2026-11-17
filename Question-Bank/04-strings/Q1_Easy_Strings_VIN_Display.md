@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 04_Strings_VINDisplay
 
 **Difficulty:** Easy  

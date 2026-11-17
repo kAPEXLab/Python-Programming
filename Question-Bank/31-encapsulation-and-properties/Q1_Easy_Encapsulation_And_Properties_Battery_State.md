@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 31_EncapsulationAndProperties_BatteryState
 
 **Difficulty:** Easy

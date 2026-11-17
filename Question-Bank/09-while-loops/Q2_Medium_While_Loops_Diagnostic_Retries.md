@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 09_WhileLoops_DiagnosticRetries
 
 **Difficulty:** Medium  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 40_JSONBinaryFilesSerializationAndDeserialization_VehicleConfiguration
 
 **Difficulty:** Easy

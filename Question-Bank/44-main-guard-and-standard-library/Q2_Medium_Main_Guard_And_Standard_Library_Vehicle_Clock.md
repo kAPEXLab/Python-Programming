@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 44_MainGuardAndStandardLibrary_VehicleClock
 
 **Difficulty:** Medium  

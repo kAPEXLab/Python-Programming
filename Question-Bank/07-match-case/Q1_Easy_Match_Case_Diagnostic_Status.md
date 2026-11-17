@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 07_MatchCase_DiagnosticStatus
 
 **Difficulty:** Easy  

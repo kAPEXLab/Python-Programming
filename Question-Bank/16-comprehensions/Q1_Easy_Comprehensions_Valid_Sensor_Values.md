@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 16_Comprehensions_ValidSensorValues
 
 **Difficulty:** Easy  

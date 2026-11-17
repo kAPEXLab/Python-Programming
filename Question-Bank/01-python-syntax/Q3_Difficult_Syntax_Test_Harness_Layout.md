@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 01_PythonSyntax_TestHarnessLayout
 
 **Difficulty:** Difficult  

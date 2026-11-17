@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 36_OperatorOverloading_BatteryCapacity
 
 **Difficulty:** Medium

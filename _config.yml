@@ -1,8 +1,10 @@
 title: Python Programming Question Bank
-theme: jekyll-theme-minimal
+url: https://kapexlab.github.io
+baseurl: /Python-Programming
 markdown: GFM
 
-# Safer relative linking within the site
-relative_links:
-  enabled: true
-  collections: true
+defaults:
+  - scope:
+      path: Question-Bank
+    values:
+      layout: default

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 07_MatchCase_ChargingMode
 
 **Difficulty:** Medium  

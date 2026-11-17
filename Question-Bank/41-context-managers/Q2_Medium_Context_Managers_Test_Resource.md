@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 41_ContextManagers_TestResource
 
 **Difficulty:** Medium

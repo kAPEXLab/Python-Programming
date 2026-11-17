@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 42_Logging_ManufacturingInspection
 
 **Difficulty:** Difficult  

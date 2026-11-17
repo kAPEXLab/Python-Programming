@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 39_TextCSVFilesAndFilePaths_ServiceArchive
 
 **Difficulty:** Difficult

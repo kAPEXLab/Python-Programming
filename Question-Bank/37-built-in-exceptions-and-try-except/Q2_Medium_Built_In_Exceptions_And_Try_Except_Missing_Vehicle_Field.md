@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 37_BuiltInExceptionsAndTryExcept_MissingVehicleField
 
 **Difficulty:** Medium

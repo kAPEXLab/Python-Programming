@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 37_BuiltInExceptionsAndTryExcept_InvalidSensorValue
 
 **Difficulty:** Easy

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 43_ModulesAndPackages_VehicleUtilities
 
 **Difficulty:** Easy  

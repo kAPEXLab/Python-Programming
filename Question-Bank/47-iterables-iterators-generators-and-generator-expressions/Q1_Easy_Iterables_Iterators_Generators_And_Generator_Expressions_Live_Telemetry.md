@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 47_IterablesIteratorsGeneratorsAndGeneratorExpressions_LiveTelemetry
 
 **Difficulty:** Easy  

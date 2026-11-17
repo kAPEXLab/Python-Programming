@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 06_Conditionals_SpeedClassification
 
 **Difficulty:** Difficult  

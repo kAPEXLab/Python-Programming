@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 04-Strings-Trip Summary Exercise
 
 **Difficulty:** Difficult  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 20_VariadicArgumentsLambdaAndHigherOrderFunctions_TelemetryFilters
 
 **Difficulty:** Easy  

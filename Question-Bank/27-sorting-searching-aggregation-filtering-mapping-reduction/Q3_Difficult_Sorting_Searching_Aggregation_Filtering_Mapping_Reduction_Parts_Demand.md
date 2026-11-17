@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 27_SortingSearchingAggregationFilteringMappingReduction_PartsDemand
 
 **Difficulty:** Difficult

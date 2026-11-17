@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 35_DataclassesAndSpecialMethods_SensorReading
 
 **Difficulty:** Easy

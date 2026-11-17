@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 28_ClassesAndObjects_BatteryPack
 
 **Difficulty:** Medium

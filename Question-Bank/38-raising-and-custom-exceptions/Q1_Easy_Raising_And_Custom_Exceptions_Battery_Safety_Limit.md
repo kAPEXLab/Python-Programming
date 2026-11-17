@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 38_RaisingAndCustomExceptions_BatterySafetyLimit
 
 **Difficulty:** Easy

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 22_TypeHintsDocstringsAndPureFunctions_DiagnosticLibrary
 
 **Difficulty:** Difficult

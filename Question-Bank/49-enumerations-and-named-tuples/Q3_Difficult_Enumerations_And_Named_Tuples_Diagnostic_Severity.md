@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 49_EnumerationsAndNamedTuples_DiagnosticSeverity
 
 **Difficulty:** Difficult  

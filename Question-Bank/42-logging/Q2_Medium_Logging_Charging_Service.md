@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 42_Logging_ChargingService
 
 **Difficulty:** Medium  

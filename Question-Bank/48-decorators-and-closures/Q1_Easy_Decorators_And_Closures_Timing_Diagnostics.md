@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 48_DecoratorsAndClosures_TimingDiagnostics
 
 **Difficulty:** Easy  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 49_EnumerationsAndNamedTuples_GPSReading
 
 **Difficulty:** Medium  

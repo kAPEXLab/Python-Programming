@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 11_NestedLoops_InspectionSearch
 
 **Difficulty:** Difficult  

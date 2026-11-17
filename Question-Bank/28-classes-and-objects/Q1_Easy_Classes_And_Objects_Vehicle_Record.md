@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 28_ClassesAndObjects_VehicleRecord
 
 **Difficulty:** Easy

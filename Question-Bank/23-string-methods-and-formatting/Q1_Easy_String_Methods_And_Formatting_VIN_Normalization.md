@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 23_StringMethodsAndFormatting_VINNormalization
 
 **Difficulty:** Easy

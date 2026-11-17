@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 26_DateAndTimeHandling_ChargingSessions
 
 **Difficulty:** Medium

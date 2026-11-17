@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 33_AbstractionAndAbstractBaseClasses_DiagnosticDevices
 
 **Difficulty:** Easy

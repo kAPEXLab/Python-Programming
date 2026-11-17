@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 03_DataTypes_BatteryVoltage
 
 **Difficulty:** Medium  

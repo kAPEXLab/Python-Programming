@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 40_JSONBinaryFilesSerializationAndDeserialization_TestResults
 
 **Difficulty:** Medium

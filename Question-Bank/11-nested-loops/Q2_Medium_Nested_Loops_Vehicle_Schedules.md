@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 11_NestedLoops_VehicleSchedules
 
 **Difficulty:** Medium  

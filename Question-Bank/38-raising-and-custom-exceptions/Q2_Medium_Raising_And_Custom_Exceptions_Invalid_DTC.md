@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 38_RaisingAndCustomExceptions_InvalidDTC
 
 **Difficulty:** Medium

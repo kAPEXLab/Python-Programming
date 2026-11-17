@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 21_Recursion_ServiceDependencyTree
 
 **Difficulty:** Medium  

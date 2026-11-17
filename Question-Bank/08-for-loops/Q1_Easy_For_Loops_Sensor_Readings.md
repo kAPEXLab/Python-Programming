@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 08_ForLoops_SensorReadings
 
 **Difficulty:** Easy  

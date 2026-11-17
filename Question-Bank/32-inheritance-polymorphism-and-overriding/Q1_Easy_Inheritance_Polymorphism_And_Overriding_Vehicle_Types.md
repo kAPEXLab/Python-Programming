@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 32_InheritancePolymorphismAndOverriding_VehicleTypes
 
 **Difficulty:** Easy

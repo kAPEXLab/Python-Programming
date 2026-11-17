@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 45_VirtualEnvironmentsDependenciesAndConfiguration_TestFramework
 
 **Difficulty:** Medium  

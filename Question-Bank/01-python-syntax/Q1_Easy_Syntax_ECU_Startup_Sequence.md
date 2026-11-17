@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 01-Python Syntax: ECU Startup Sequence
 
 ## Problem Statement

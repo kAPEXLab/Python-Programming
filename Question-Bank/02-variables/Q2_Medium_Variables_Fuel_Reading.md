@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 02_Variables_FuelReading
 
 **Difficulty:** Medium  

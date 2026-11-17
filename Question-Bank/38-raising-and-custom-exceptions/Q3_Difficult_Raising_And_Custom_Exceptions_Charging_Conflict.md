@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 38_RaisingAndCustomExceptions_ChargingConflict
 
 **Difficulty:** Difficult

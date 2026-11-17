@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 12_ListsAndSlicing_BatterySamples
 
 **Difficulty:** Medium  

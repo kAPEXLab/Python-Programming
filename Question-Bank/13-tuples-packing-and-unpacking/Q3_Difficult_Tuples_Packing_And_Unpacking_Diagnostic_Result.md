@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 13_TuplesPackingAndUnpacking_DiagnosticResult
 
 **Difficulty:** Difficult  

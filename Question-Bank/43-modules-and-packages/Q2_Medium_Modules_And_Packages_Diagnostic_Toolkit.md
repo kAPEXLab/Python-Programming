@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 43_ModulesAndPackages_DiagnosticToolkit
 
 **Difficulty:** Medium  

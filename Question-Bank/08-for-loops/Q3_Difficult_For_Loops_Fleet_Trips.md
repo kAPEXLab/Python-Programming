@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 08_ForLoops_FleetTrips
 
 **Difficulty:** Difficult  

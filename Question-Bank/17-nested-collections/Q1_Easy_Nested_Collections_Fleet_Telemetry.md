@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 17_NestedCollections_FleetTelemetry
 
 **Difficulty:** Easy  

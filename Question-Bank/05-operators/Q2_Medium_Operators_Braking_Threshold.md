@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 05_Operators_BrakingThreshold
 
 **Difficulty:** Medium  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 30_ClassMethodsAndStaticMethods_FaultCatalog
 
 **Difficulty:** Difficult

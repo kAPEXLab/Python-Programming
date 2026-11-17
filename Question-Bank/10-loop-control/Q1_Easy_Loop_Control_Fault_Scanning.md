@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 10_LoopControl_FaultScanning
 
 **Difficulty:** Easy  

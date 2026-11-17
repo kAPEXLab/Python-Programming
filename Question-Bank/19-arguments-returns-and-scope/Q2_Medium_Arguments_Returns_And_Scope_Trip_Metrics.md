@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 19_ArgumentsReturnsAndScope_TripMetrics
 
 **Difficulty:** Medium  
