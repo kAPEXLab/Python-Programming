@@ -1,8 +1,6 @@
 ---
-title: KPIT APEX Lab
-hide_index: true
+layout: question-bank
+title: Python Programming Question Bank
 ---
 
-
-# Python Programming
-👉 Browse all questions here: [**Open Question Bank**](question-bank.md)
+{% include_relative question-bank.md %}

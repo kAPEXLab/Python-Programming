@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <base target="question-content">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body class="question-bank-page">
+  <header class="site-header">
+    <a href="https://kapexlab.github.io/Python-Programming/" target="_top">Python Programming Question Bank</a>
+  </header>
+  <div class="page-columns">
+    <aside class="question-index" aria-label="Question index">
+      <nav>{{ content }}</nav>
+      <p class="maintainer">This project is maintained by <a href="https://github.com/kAPEXLab" target="_top">kAPEXLab</a>.</p>
+    </aside>
+    <main class="question-view">
+      <iframe
+        name="question-content"
+        title="Selected Python question"
+        src="{{ '/Question-Bank/01-python-syntax/Q1_Easy_Syntax_ECU_Startup_Sequence.md' | relative_url }}">
+      </iframe>
+    </main>
+  </div>
+</body>
+</html>
