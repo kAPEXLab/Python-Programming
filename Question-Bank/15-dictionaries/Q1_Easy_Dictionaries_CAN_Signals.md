@@ -1,48 +1,58 @@
-# 15_Dictionaries_CANSignals
+# 15 - CAN Signals - Easy
 
-**Difficulty:** Easy  
-**Primary Python Concept:** Dictionary keys and values  
-**Supporting Concepts:** Lookup, validation, strings, functions  
-**Automotive Domain:** Simulated CAN signal registry  
-**Estimated Completion Time:** 25 minutes
+## Question Details
+- Concept: Dictionary keys and values
+- Supporting concepts: Lookup, validation, strings, functions
+- Difficulty: Easy
+- Domain: Simulated CAN signal registry
+- Learning Objective: Use dictionary lookups to retrieve named signal values safely.
 
-## Learning Objective
-Use dictionary lookups to retrieve named signal values safely.
-
-## Prerequisites
-Dictionaries, strings, numbers, functions, and conditionals.
-
-## Scenario Introduction
+## Scenario
 An offline data fixture maps signal names to their current numeric readings.
 
-## Problem Statement
-**Goal:** Use dictionary lookups to retrieve named signal values safely.
+## Function Details
+- Function signature: `read_can_signal(signals: dict[str, float], name: str) -> float | None`
+- Behavior / return shape: Return the requested signal value and a clear missing-signal result.
+- Exact accepted inputs: Signal names are non-empty strings. Values are finite numbers from -1000.0 through 1000.0. The requested name may include surrounding whitespace and is case-insensitive.
+- Output and validation / behavior: Return the matching numeric value or `None` when no normalized key exists.
 
-**Specifically:** Return the requested signal value and a clear missing-signal result.
+## Tasks to Implement
+1. Implement `read_can_signal` with the exact signature above and validate the inputs against these accepted rules: Signal names are non-empty strings. Values are finite numbers from -1000.0 through 1000.0. The requested name may include surrounding whitespace and is case-insensitive.
+2. Return the requested signal value and a clear missing-signal result.
+3. Implement this output contract exactly: Return the matching numeric value or `None` when no normalized key exists.
 
-## Task to Implement
-Implement `read_can_signal(signals: dict[str, float], name: str) -> float | None`.
+## Test Cases
+| # | Call | Expected Output | Why this case matters |
+| --- | --- | --- | --- |
+| 1 | read_can_signal({"EngineSpeed": 1200}, " enginespeed ") | 1200 | Typical valid input. |
+| 2 | read_can_signal({"BatteryVoltage": 400}, "batteryvoltage") | 400 | Valid boundary case. |
+| 3 | read_can_signal({}, "missing") | None | Checks the threshold rule. |
+| 4 | read_can_signal({"A": -1000}, "a") | -1000 | Checks an alternate valid shape. |
+| 5 | read_can_signal({"speed": 300.5}, "SPEED") | 300.5 | Checks aggregate behavior. |
 
-## Input Specification
-Signal names are non-empty strings. Values are finite numbers from -1000.0 through 1000.0. The requested name may include surrounding whitespace and is case-insensitive.
+## Expected Deliverables
+- Complete implementation of read_can_signal that satisfies the specification.
+- A brief explanation of the approach and the logic used.
+- Test evidence demonstrating the function works across the supplied valid-case scenarios.
 
-## Output Specification
-Return the matching numeric value or `None` when no normalized key exists.
+## Additional Guidance
+### Prerequisites
+Dictionaries, strings, numbers, functions, and conditionals.
 
-## Rules and Constraints
+### Rules and Constraints
 - Normalize only the requested name and compare signal names case-insensitively.
-- Reject malformed dictionaries or names with `ValueError`.
+- Reject malformed dictionaries or names with ValueError.
 - Do not mutate input.
 
-## Hints
+### Hints
 1. Validate all dictionary entries first.
 2. Strip and uppercase the requested name.
 3. Search normalized keys without changing the source dictionary.
 
-## Common Mistakes
-- Raising `KeyError` for a missing signal.
+### Common Mistakes
+- Raising KeyError for a missing signal.
 - Mutating keys during normalization.
 - Treating zero as missing.
 
-## Extension Challenge
+### Extension Challenge
 Return both the value and the normalized key as a tuple.
