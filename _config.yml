@@ -1,0 +1,8 @@
+title: Python Programming Question Bank
+theme: jekyll-theme-minimal
+markdown: GFM
+
+# Safer relative linking within the site
+relative_links:
+  enabled: true
+  collections: true
