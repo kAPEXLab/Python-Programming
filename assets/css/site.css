@@ -38,9 +38,11 @@ body {
 
 .brand img {
   display: block;
+  height: auto;
   max-height: 100%;
   max-width: 100%;
   object-fit: contain;
+  width: 100%;
 }
 
 .page-title h1 {
